@@ -1,4 +1,3 @@
-0hh1
+Grid Game
 ====
-
 A lovely little logic game by Q42.
